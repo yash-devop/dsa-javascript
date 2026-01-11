@@ -1,5 +1,13 @@
 // https://leetcode.com/problems/rotate-array/description/
 
+// Basically it is : Left Rotate the array
+
+// now they can give you qurstions like : rotate the array to the left by one/two/10 etc.
+
+// that count is basically : k
+
+
+
 /**
  * @param {number[]} nums
  * @param {number} k
