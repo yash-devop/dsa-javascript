@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/rotate-array/description/
 
+// SUBMISSION using js =>   https://leetcode.com/problems/rotate-array/submissions/1881463644/
+
 // Basically it is : Left Rotate the array
 
 // now they can give you qurstions like : rotate the array to the left by one/two/10 etc.
